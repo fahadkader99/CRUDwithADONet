@@ -1,7 +1,10 @@
+using CRUDwithADONet.Web.DataAccessLayer;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<Employee_DAL>();
 
 var app = builder.Build();
 
