@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDwithADONet.Web", "..\..\CRUDwithADONet\CRUDwithADONet\CRUDwithADONet.Web\CRUDwithADONet.Web.csproj", "{A0325525-A970-4ACD-A2B5-931CB50B274F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0325525-A970-4ACD-A2B5-931CB50B274F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0325525-A970-4ACD-A2B5-931CB50B274F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0325525-A970-4ACD-A2B5-931CB50B274F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0325525-A970-4ACD-A2B5-931CB50B274F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C143002-E0C7-42C5-B290-07E6C0FE3866}
+	EndGlobalSection
+EndGlobal
